@@ -1,3 +1,3 @@
-# SP repository
+# My First Repository
 
-Reposit0ry with scripts for SP company
+My first Repository with PowerShell scripts, etc.
